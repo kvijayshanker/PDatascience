@@ -1,0 +1,24 @@
+Gender distribution bar chart:
+
+ This visualization allows you to easily analyze the gender distribution among students. Easily explore gender-related comparisons, such as differences in performance and participation rates. Racial/ethnic distribution bar chart:
+
+ Assist in analyzing the racial and ethnic composition of the student population. It allows for comparisons between different racial or ethnic groups in terms of performance and participation.
+
+
+Pie chart showing the distribution of lunch types: 
+ 
+ Provide a clear overview of lunch food distribution (standard or free/discounted). It helps assess whether the type of lunch is correlated with academic performance.
+
+ Boxplots of math, reading, and writing scores:
+
+ It shows the distribution and distribution of results for each subject. You can identify outliers and overall dispersion of scores.
+
+
+Scatterplot math and reading scores:
+
+ A visual representation of the relationship between math and reading scores. You can evaluate linear correlation or clustering in your data.
+
+
+Resulting correlation heatmap:
+
+ Visualize the correlation matrix between math, reading, and writing scores. It facilitates the analysis of relationships and dependencies between different topics.
